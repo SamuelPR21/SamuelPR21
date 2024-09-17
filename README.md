@@ -1,5 +1,13 @@
 ## Hi, I'm Samuel A. Perdomo Fajardo 👋
 
+## ⚡ About Me
+<!-- 
+I'm a passionate person, mid-senior developer from Brazil living in the beautiful country of Colombia, 
+with vast experience (+4 y) in Frontend development. From good sense of UX/UI all the way to having 
+experience in using the most updated tools in the area. Also, I've got along with backend and the 
+⭐data⭐ world. I love tackling new challenges and learning new technologies! 💪 
+-->
+
 <table style="margin:0">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
