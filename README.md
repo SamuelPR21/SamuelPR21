@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,ts,react"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data Analysis:</td>
