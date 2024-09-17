@@ -1,12 +1,12 @@
 ## Hi, I'm Samuel A. Perdomo Fajardo 👋
 
 ## ⚡ About Me
-<!-- 
-I'm a passionate person, mid-senior developer from Brazil living in the beautiful country of Colombia, 
-with vast experience (+4 y) in Frontend development. From good sense of UX/UI all the way to having 
-experience in using the most updated tools in the area. Also, I've got along with backend and the 
-⭐data⭐ world. I love tackling new challenges and learning new technologies! 💪 
--->
+
+⭐I am currently pursuing a degree in Software Engineering at Surcolombiana University in Neiva, Huila⭐. As a junior developer, I am driven by a deep curiosity and passion for continuous learning. My primary focus is on backend development and data analysis, but I am also eager to acquire skills in frontend technologies to achieve a well-rounded education💻.
+
+
+🚀I actively seek challenges that strengthen both my technical and soft skills, taking advantage of every opportunity to grow. For me, learning never stops!💪
+
 
 ## 🧑‍💻Technological tools
 <table style="margin:0">
