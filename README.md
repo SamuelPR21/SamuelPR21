@@ -8,6 +8,7 @@ experience in using the most updated tools in the area. Also, I've got along wit
 ⭐data⭐ world. I love tackling new challenges and learning new technologies! 💪 
 -->
 
+## 🧑‍💻Technological tools
 <table style="margin:0">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
