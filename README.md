@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data Analysis:</td>
-        <td><img height="40" src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg"/><img height="40" src="https://numpy.org/images/logo.svg"/><img height="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"/></td>
+        <td><img height="40" src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg"/><img height="40" src="https://numpy.org/images/logo.svg"/><img height="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"/><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mamba-Logo.svg/2560px-Mamba-Logo.svg.png"/><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Conda_logo.svg"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Physical Computing:</td>
