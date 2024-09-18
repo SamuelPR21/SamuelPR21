@@ -9,16 +9,22 @@
 
 
 ## 🧑‍💻Technological tools
-<table>
+<table style="margin:0">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,js,kotlin"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=spring,django,flask"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react"/></td>
+    </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data Analysis:</td>
-        <td>
-            <img height="40" src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg"/>
-            <img height="40" src="https://numpy.org/images/logo.svg"/>
-            <img height="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"/>
-            <img height="40" src="https://mamba.readthedocs.io/en/latest/_static/mamba.svg"/>
-            <img height="40" src="https://seeklogo.com/images/C/conda-logo-1A231C8BE4-seeklogo.com.png"/>
-        </td>
+        <td><img height="40" src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg"/><img height="40" src="https://numpy.org/images/logo.svg"/><img height="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Physical Computing:</td>
@@ -45,4 +51,3 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
-
