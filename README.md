@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data Analysis:</td>
@@ -49,7 +49,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,visualstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Editor Text:</td>
