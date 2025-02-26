@@ -36,10 +36,6 @@
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Physical Computing:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=arduino"/></td>
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=postgresql"/></td>
     </tr>
